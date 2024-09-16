@@ -1,0 +1,100 @@
+
+// Resolução do Exercício 02
+
+a)
+
+
+<?php
+$A = 10;
+$B = 20;
+echo $B; // Imprime 20
+$B = 5;
+echo $A, $B; // Imprime 10 5
+?>
+Código de Saída:
+
+20
+10 5
+
+b)
+PHP
+
+<?php
+$A = 30;
+$B = 20;
+$C = $A + $B;
+echo $C; // Imprime 50
+$B = 10;
+echo $B, $C; // Imprime 10 50
+$C = $A + $B;
+echo $A, $B, $C; // Imprime 30 10 40
+?>
+Código de Saída:
+
+50
+10 50
+30 10 40
+
+c)
+
+
+<?php
+$A = 10;
+$B = 20;
+$C = $A;
+$B = $C;
+$A = $B;
+echo $A, $B, $C; // Imprime 10 10 10
+?>
+Código de Saída:
+
+10 10 10
+
+d)
+
+
+<?php
+$A = 10;
+$B = $A + 1;
+$A = $B + 1;
+$B = $A + 1;
+echo $A; // Imprime 12
+$A = $B + 1;
+echo $A, $B; // Imprime 14 13
+?>
+Código de Saída:
+
+12
+14 13
+
+e)
+
+
+<?php
+$A = 10;
+$B = 5;
+$C = $A + $B;
+$B = 20;
+$A = 10;
+echo $A, $B, $C; // Imprime 10 20 15
+?>
+Código de Saída:
+
+10 20 15
+
+f)
+
+<?php
+$X = 1;
+$Y = 2;
+$Z = $Y - $X;
+echo $Z; // Imprime 1
+$X = 5;
+$Y = $X + $Z;
+echo $X, $Y, $Z; // Imprime 5 6 1
+?>
+
+Código de Saída
+
+1
+5 6 1
