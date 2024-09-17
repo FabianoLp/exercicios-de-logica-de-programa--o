@@ -1,0 +1,32 @@
+Par A
+(4/2) + (2/4):
+Primeiro, calculamos (4/2 = 2).
+Depois, calculamos (2/4 = 0.5).
+Somando os resultados: (2 + 0.5 = 2.5).
+4/2 + 2/4:
+Primeiro, calculamos (4/2 = 2).
+Depois, calculamos (2/4 = 0.5).
+Somando os resultados: (2 + 0.5 = 2.5).
+Resultado: Ambos produzem o mesmo resultado, (2.5).
+
+Par B
+4/(2+2)/4:
+Primeiro, calculamos (2+2 = 4).
+Depois, calculamos (4/4 = 1).
+Finalmente, calculamos (1/4 = 0.25).
+4/2 + 2/4:
+Primeiro, calculamos (4/2 = 2).
+Depois, calculamos (2/4 = 0.5).
+Somando os resultados: (2 + 0.5 = 2.5).
+Resultado: Não produzem o mesmo resultado. O primeiro é (0.25) e o segundo é (2.5).
+
+Par C
+(4+2) * 2 - 4:
+Primeiro, calculamos (4+2 = 6).
+Depois, calculamos (6 * 2 = 12).
+Finalmente, calculamos (12 - 4 = 8).
+4 + 2 * 2 - 4:
+Primeiro, calculamos (2 * 2 = 4).
+Depois, somamos (4 + 4 = 8).
+Finalmente, calculamos (8 - 4 = 4).
+Resultado: Não produzem o mesmo resultado. O primeiro é (8) e o segundo é (4).
